@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" role="img" aria-label="Couverture panorama climatique">
+  <defs>
+    <linearGradient id="climatBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f2a4d"/>
+      <stop offset="100%" stop-color="#2e8f8a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="480" fill="url(#climatBg)"/>
+  <circle cx="180" cy="170" r="110" fill="#84e8ff" opacity="0.2"/>
+  <path d="M60 360 C180 300, 270 420, 420 340 C520 290, 640 360, 760 320 L760 480 L60 480 Z" fill="#c8fff4" opacity="0.28"/>
+  <rect x="460" y="112" width="230" height="160" rx="26" fill="#ffffff" opacity="0.14"/>
+  <path d="M498 234 L530 182 L562 210 L594 156 L626 210" stroke="#9affdf" stroke-width="10" fill="none" stroke-linecap="round"/>
+</svg>

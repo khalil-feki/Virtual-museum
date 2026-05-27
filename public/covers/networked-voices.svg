@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" role="img" aria-label="Couverture energies renouvelables">
+  <defs>
+    <linearGradient id="renBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#15453e"/>
+      <stop offset="100%" stop-color="#4bcf8f"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="480" fill="url(#renBg)"/>
+  <circle cx="642" cy="120" r="72" fill="#f9ffd0" opacity="0.35"/>
+  <path d="M70 362 C190 294, 250 406, 380 334 C505 270, 610 334, 730 292 L730 480 L70 480 Z" fill="#e8fff6" opacity="0.3"/>
+  <rect x="180" y="172" width="150" height="92" rx="10" fill="#17374a" opacity="0.58"/>
+  <path d="M190 214 H320 M190 228 H320 M190 242 H320" stroke="#7ce6ff" stroke-width="5" opacity="0.8"/>
+  <rect x="460" y="188" width="16" height="110" rx="6" fill="#d7f7ff"/>
+  <path d="M468 188 L430 210 L468 224 L506 210 Z" fill="#ecffff"/>
+  <path d="M468 188 L468 146" stroke="#d7f7ff" stroke-width="6" stroke-linecap="round"/>
+</svg>

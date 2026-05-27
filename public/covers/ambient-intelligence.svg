@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" role="img" aria-label="Couverture innovations vertes">
+  <defs>
+    <linearGradient id="innovBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#17384f"/>
+      <stop offset="100%" stop-color="#4fd6a4"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="480" fill="url(#innovBg)"/>
+  <path d="M90 390 C220 280, 390 430, 700 292 L700 480 L90 480 Z" fill="#f0fff8" opacity="0.24"/>
+  <rect x="164" y="120" width="180" height="144" rx="28" fill="#ffffff" opacity="0.14"/>
+  <rect x="192" y="156" width="124" height="76" rx="12" fill="#17384f" opacity="0.7"/>
+  <path d="M460 270 C460 212, 520 178, 578 196 C622 210, 650 252, 640 300 C632 340, 598 372, 556 372 C508 372, 470 334, 460 286" fill="none" stroke="#8cfde8" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="556" cy="286" r="22" fill="#8cfde8" opacity="0.9"/>
+</svg>

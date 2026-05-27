@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-label="Innovation verte du futur">
+  <defs>
+    <linearGradient id="dBg" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#1b3e55"/>
+        <stop offset="100%" stop-color="#4fd5a5"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1200" fill="url(#dBg)"/>
+    <path d="M80 920 C250 770, 480 1000, 820 800 L820 1200 L80 1200 Z" fill="#f2fff9" opacity="0.24"/>
+    <rect x="190" y="220" width="260" height="180" rx="24" fill="#ffffff" opacity="0.12"/>
+    <rect x="230" y="268" width="180" height="86" rx="14" fill="#204f67" opacity="0.7"/>
+    <path d="M520 660 C520 585, 588 540, 660 562 C715 579, 752 635, 740 700 C730 751, 686 794, 632 794 C573 794, 528 748, 520 686" fill="none" stroke="#95ffe9" stroke-width="18" stroke-linecap="round"/>
+    <circle cx="632" cy="686" r="28" fill="#95ffe9"/>
+</svg>
